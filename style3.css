@@ -1,0 +1,778 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.continer{
+	width: 1300px;
+	height: 2075px;
+	border: 1px solid white;
+	margin: 30px auto;
+}
+.header1{
+	width: 1300px;
+	height: 160px;
+	border: 1px solid white;
+}
+.header{
+	width: 560px;
+	height: 150px;
+	border: 1px solid white;
+	float: left;
+}
+.row{
+	width: 130px;
+	height: 120px;
+	background-image: url("web.PNG");
+	background-size: 130px 120px;
+	border: 1px solid white;
+	margin-left: 40px;
+	margin-top: 15px;
+	float: left;
+}
+.logo{
+	width: 358px;
+	height: 30px;
+	border: 1px solid white;
+	margin-left: 200px;
+	margin-top: 40px;
+	color: #338ad7;
+	font-size: 30px;
+
+}
+.logo2{
+	width: 280px;
+	height: 60px;
+	border: 1px solid white;
+	margin-left: 200px;
+	margin-top: 12px;
+	font-size: 25px;
+	color: #72c02c;
+}
+.hright{
+	width: 733px;
+	height: 150px;
+	border: 1px solid white;
+	margin-left: 560px;
+}
+.flesh{
+	width: 315px;
+	height: 100px;
+	border: 1px solid white;
+	margin-left: 30px;
+	margin-top: 25px;
+	float: left;
+}
+.flesh2{
+	width: 90px;
+	height: 90px;
+	background-image: url("(21).PNG");
+	background-size: 90px 90px;
+	border: 1px solid white;
+	float: left;
+}
+.flesh3{
+	width: 210px;
+	height: 40px;
+	border: 1px solid white;
+	font-size: 17px;
+	margin-top: 20px;
+	margin-left: 100px;
+}
+.right{
+	width: 375px;
+	height: 100px;
+	border: 1px solid white;
+	margin-left: 350px;
+	margin-top: 25px;
+}
+.rasm{
+	width: 90px;
+	height: 90px;
+	background-image: url("(22).PNG");
+	background-size: 90px 90px;
+	border: 1px solid white;
+	float: left;
+}
+.nomer{
+	width: 260px;
+	height: 50px;
+	border: 1px solid white;
+	margin-top: 20px;
+	font-size: 20px;
+}
+.menyu{
+	width: 1210px;
+	height: 72px;
+	border: 1px solid #3d9bdd;;
+	margin-left: 40px;
+	background-color: #3d9bdd;
+
+}
+.menyu ul{
+		width: 800px;
+		height: 70px;
+		list-style: none;
+		margin-left: 180px;
+		border: 1px solid #3d9bdd;;
+}
+.menyu ul li{
+		color: black;
+}
+.menyu ul li a{
+		text-decoration: none;
+		color:inherit;
+		width: 160px;
+		height: 50px;
+		float: left;
+		text-align: center;
+		margin-top: 20px;
+		font-size: 20px;
+}
+.menyu ul li .activ{
+		color: black;
+}
+.silka{
+	width: 140px;
+	height: 65px;
+	margin-left: 150px;
+	border-left: 1px solid #78b9e7;
+	border-top: 1px solid #3d9bdd;
+	border-right: 1px solid #78b9e7;
+	border-bottom: 1px solid #3d9bdd;
+
+
+	float: left;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.rasmlar{
+	width: 1210px;
+	height: 380px;
+	border: 1px solid #3d9bdd;
+	margin: 0 auto ;
+	margin-top: 30px;
+	background-color: #3d9bdd;
+}
+.joy{
+	width: 590px;
+	height: 308px;
+	border: 1px solid #3d9bdd;
+	float: left;
+}
+.joy2{
+	width: 610px;
+	height: 308px;
+	border: 1px solid #3d9bdd;
+	float: right;
+}
+.foto{
+	width: 200px;
+	height: 280px;
+	margin: 10px;
+	border: 1px solid #3d9bdd;
+	background-image: url("(24).PNG");
+	background-size: 140px 280px;
+	float: right;
+}
+.foto2{
+	width: 350px;
+	height: 280px;
+	border: 1px solid #3d9bdd;
+	background-image: url("(23).PNG");
+	background-size: 370px 280px;
+	margin: 10px;
+}
+.img{
+	width: 585px;
+	height: 140px;
+	border: 1px solid #3d9bdd;
+	background-image: url("(25).PNG");
+	background-size: 630px 140px;
+	margin: 10px;
+}
+.img2{
+	width: 280px;
+	height: 130px;
+	border: 1px solid #3d9bdd;
+	background-image: url("(26).PNG");
+	background-size: 220px 130px;
+	margin-left: 10px;
+	float: left;
+}
+.img3{
+	width: 280px;
+	height: 130px;
+	border: 1px solid #3d9bdd;
+	background-image: url("(27).PNG");
+	background-size: px px;
+	margin: 10px;
+	margin-left: 315px;
+}
+.tozalash{
+	clear: both;
+}
+.poisk ul{
+	width: 30px;
+	height: 30px;
+	border: 1px solid  #72c02c;
+	list-style: none;
+	float: right;
+	background-color: #72c02c;
+	margin-right: 15px;
+	margin-top: 20px;
+}
+.poisk ul li{
+	color: inherit;
+}
+.poisk ul li a{
+	text-decoration: none;
+	font-size: 25px;
+	margin-left: 8px;
+	color: white;
+}
+.poisk2 ul{
+	width: 30px;
+	height: 30px;
+	border: 1px solid  #72c02c;
+	list-style: none;
+	float: left;
+	background-color: #72c02c;
+	margin-left: 15px;
+	margin-top: 20px;
+}
+.poisk2 ul li{
+	color: inherit;
+}
+.poisk2 ul li a{
+	text-decoration: none;
+	font-size: 25px;
+	margin-left: 8px;
+	color: white;
+}
+.soz{
+	width: 730px;
+	height: 48px;
+	border: 1px solid #3d9bdd;
+	color: white;
+	font-size: 17px;
+	margin: 0px auto;
+	margin-top: 15px;
+}
+.silka3{
+	width: 140px;
+	height: 65px;
+	border: 1px solid #0081bb;
+	background-color: #0081bb;
+}
+.poisk-joyi{
+	width: 400px;
+	height: 52px;
+	border: 1px solid white;
+	margin-left: 40px;
+	margin-top: 38px;
+}
+.ohtarish{
+	width: 300px;
+	height: 48px;
+	border: 1px solid #3d9bdd;
+	background-color: #3d9bdd;
+	font-size: 20px;
+	float: left;
+}
+.ohtarish1 ul{
+	width: 180px;
+	height: 30px;
+	border: 1px solid  #3d9bdd;
+	list-style: none;
+	float: left;
+	background-color: #3d9bdd;
+	margin-top: 7px;
+	margin-left: 5px;	
+}
+.ohtarish1 ul li{
+	color: inherit;
+}
+.ohtarish1 ul li a{
+	text-decoration: none;
+	font-size: 24px;
+	margin-left: 5px;
+	margin-top: 7px;
+	color: black;
+}
+.ohtarish2{
+	width: 50px;
+	height: 46px;
+	border: 1px solid #3d9bdd;
+	background-image: url("(30).PNG");
+	background-size: 50px 47px;
+	margin-left: 60px;
+	float: left;	
+}
+.topish{
+	width: 730px;
+	height: 46px;
+	border: 1px solid #fafafa;
+	background-color: #fafafa;
+	margin-left: 480px;
+}
+.ok9 input{
+	width: 681px;
+	height: 44px;
+	border: 1px solid black;
+	list-style: none;
+	float: left;
+}
+.okey ul{
+	width: 45px;
+	height: 42px;
+	border: 1px solid #72c02c;
+	margin-top: -22px;
+	float: right;
+}
+.okey ul li{
+	color: white;
+}
+.okey ul li img{
+	text-decoration: none;
+	width: 45px;
+	height: 42px;
+}
+.hammasi{
+	width: 1258px;
+	height: 1085px;
+	border: 1px solid white;
+}
+.soz-joyi{
+	width: 300px;
+	height: 467px;
+	border: 1px solid #72c02c;
+	background-color: #72c02c;
+	margin-top: 40px;
+	float: left;
+}
+.text{
+	width: 297px;
+	height: 60px;
+	border-left: 1px solid #72c02c;
+	border-top: 1px solid #72c02c;
+	border-right: 1px solid #72c02c;
+	border-bottom: 1px solid white;
+	color: white;
+}
+.text ul{
+	width: 280px;
+	height: 30px;
+	list-style: none;
+	margin-top: 6px;
+	margin-left: 15px;
+}
+.text ul li{
+	margin-left:0px;
+	float: left;
+	color: white;
+}
+.text ul li a{
+	text-decoration: none;
+	color:inherit;		
+}
+.text ul li .activ{
+	border: 2px solid #638098;
+	color: #638098;
+}
+.ikon3 ul{
+	width: 297px;
+	height: 35px;
+	list-style: none;
+	border-left: 1px solid #72c02c;
+	border-top: 1px solid #72c02c;
+	border-right: 1px solid #72c02c;
+	border-bottom: 1px solid white;
+}
+.ikon3 ul li{
+	margin-top: 3px;
+	margin-left:15px;
+	float: left;
+	color: white;
+}
+.ikon3 ul li a{
+	text-decoration: none;
+	color:inherit;		
+}
+.ikon3 ul li .activ{
+	border: 2px solid #638098;
+	color: #638098;
+}
+.aktiv2{
+	width: 300px;
+	height: 35px;
+	list-style: none;	
+	background-color: #3d9bdd;
+}
+.mundarija{
+	width: 300px;
+	height: 510px;
+	border: 1px solid #0081bb;
+	background-color: #0081bb;
+	margin-top: 35px;
+}
+.mundarija2{
+	width: 180px;
+	height: 55px;
+	margin: 40px 20px;
+	border: 1px solid  #0081bb;
+	color: white;
+}
+.mundarija3{
+	width: 270px;
+	height: 320px;
+	border: 1px solid #0081bb;
+	margin-left: 20px;
+	margin-top: 40px;
+	color: white;
+}
+.tiziq{
+	width: 230px;
+	margin: 20px 20px;
+	border: 1px solid #80c0dd;
+}
+.hammasi2{
+	width: 305px;
+	height: 1055px;
+	border: 1px solid white;
+	float: left;
+}
+.margin{
+	width: 730px;
+	height: 906px;
+	border: 1px solid white;
+	margin-top: 40px;
+	margin-right: 44px;
+	float: right;
+}
+.margin2{
+	width: 730px;
+	height: 280px;
+	border: 1px solid white;
+}
+.margin3{
+	width: 730px;
+	height: 280px;
+	border: 1px solid white;
+	margin-top: 30px;
+}
+.margin4{
+	width: 730px;
+	height: 280px;
+	border: 1px solid white;
+	margin-top: 30px;
+}
+.margrasm{
+	width: 350px;
+	height: 278px;
+	border: 1px solid white;
+	background-color: #f8f8f8;
+	float: left;
+}
+.margrasm2{
+	width: 350px;
+	height: 278px;
+	border: 1px solid white;
+	background-color: #f8f8f8;
+	float: right;
+}
+.margrasm3{
+	width: 350px;
+	height: 278px;
+	border: 1px solid white;
+	background-color: #f8f8f8;
+	float: left;
+}
+.margrasm4{
+	width: 350px;
+	height: 278px;
+	border: 1px solid white;
+	background-color: #f8f8f8;
+	float: right;
+}
+.margrasm5{
+	width: 350px;
+	height: 278px;
+	border: 1px solid white;
+	background-color: #f8f8f8;
+	float: left;
+}
+.margrasm6{
+	width: 350px;
+	height: 278px;
+	border: 1px solid white;
+	background-color: #f8f8f8;
+	float: right;
+	border-radius: ;
+}
+.marasm{
+	width: 150px;
+	height: 150px;
+	margin: 30px auto;
+}
+.marasm2{
+	width: 150px;
+	height: 150px;
+	margin: 30px auto;
+}
+.marasm3{
+	width: 150px;
+	height: 150px;
+	margin: 30px auto;
+}
+.marasm4{
+	width: 150px;
+	height: 150px;
+	margin: 30px auto;
+}
+.marasm5{
+	width: 150px;
+	height: 150px;
+	margin: 30px auto;
+}
+.marasm6{
+	width: 150px;
+	height: 150px;
+	margin: 30px auto;
+}
+.silsoz{
+	width: 250px;
+	height: 50px;
+	border: 1px solid #f8f8f8;
+	margin: 0px auto;
+	text-align: center;
+}
+.silsoz2{
+	width: 250px;
+	height: 50px;
+	border: 1px solid #f8f8f8;
+	margin: 0px auto;
+	text-align: center;
+}
+.silsoz3{
+	width: 250px;
+	height: 50px;
+	border: 1px solid #f8f8f8;
+	margin: 0px auto;
+	text-align: center;
+}
+.silsoz4{
+	width: 250px;
+	height: 50px;
+	border: 1px solid #f8f8f8;
+	margin: 0px auto;
+	text-align: center;
+}
+.silsoz5{
+	width: 250px;
+	height: 50px;
+	border: 1px solid #f8f8f8;
+	margin: 0px auto;
+	text-align: center;
+}
+.silsoz6{
+	width: 250px;
+	height: 50px;
+	border: 1px solid #f8f8f8;
+	margin: 0px auto;
+	text-align: center;
+}
+.silsoz a{
+	text-decoration: none;
+	color: #7bc43a;
+}
+.silsoz2 a{
+	text-decoration: none;
+	color: #0081bb;
+}
+.silsoz3 a{
+	text-decoration: none;
+	color: #0081bb;
+}
+.silsoz4 a{
+	text-decoration: none;
+	color: #0081bb;
+}
+.silsoz5 a{
+	text-decoration: none;
+	color: #0081bb;
+}
+.silsoz6 a{
+	text-decoration: none;
+	color: #0081bb;
+}
+.o{
+	width: 725px;
+	height: 105px;
+	border: 1px solid white;
+	float: right;
+	margin-top: 30px;
+}
+.kompaniya{
+	width: 200px;
+	height: 25px;
+	border: 1px solid white;
+}
+.ccc{
+	width: 680px;
+	height: 75px;
+	border: 1px solid white;
+	font-size: 16px;
+}
+.vvv{
+	width: 1299px;
+	height: 90px;
+	border: 1px solid #1b2831;
+	font-size: 17px;
+	margin-top: 160px;
+	margin-left: -43px;
+	background-color: #1b2831;
+}
+.vv{
+	width: 150px;
+	height: 30px;
+	color: white;
+	border: 1px solid #1b2831;
+	font-size: 17px;
+	margin-left: 43px;
+	margin-top: 35px;
+	float: left;
+}
+.v{
+	width: 260px;
+	height: 30px;
+	border: 1px solid #1b2831;
+	color: white;
+	font-size: 17px;
+	margin-left: 80px;
+	margin-top: 35px;
+	float: left;
+}
+/*.v0{
+	width: 160px;
+	height: 30px;
+	border: 1px solid #1b2831;
+	background-image: url("sh100.jpg");
+	background-size: 160px 30px;
+	margin-left: 0px;
+	margin-top: 33px;
+	float: left;
+}*/
+.v00{
+	width: 40px;
+	height: 40px;
+	border: 1px solid #1b2831;
+	background-image: url("sh101.jpg");
+	background-size: 40px 40px;
+	float: left;
+	margin-left: 75px;
+	margin-top: 26px;
+}
+.v0 ul{
+	width: 30px;
+	height: 30px;
+	border: 1px solid #1b2831;
+	margin-top: 33px;
+	margin-left: -25px;
+	float: left;
+	list-style: none;
+}
+.v0 ul li{
+	color: inherit;
+}
+.v0 ul li img{
+	text-decoration: none;
+	width: 30px;
+	height: 30px;
+}
+.Instagram ul{
+	width: 30px;
+	height: 30px;
+	border: 1px solid #1b2831;
+	margin-top: 33px;
+	float: left;
+	list-style: none;
+}
+.Instagram ul li{
+	color: white;
+}
+.Instagram ul li img{
+	text-decoration: none;
+	width: 30px;
+	height: 30px;
+}
+.ok8 ul{
+	width: 30px;
+	height: 30px;
+	border: 1px solid #1b2831;
+	margin-top: 33px;
+	margin-left:px;
+	list-style: none;
+	float: left;
+}
+.ok8 ul li{
+	color: white;
+	list-style: none;
+}
+.ok8 ul li img{
+	text-decoration: none;
+	width: 30px;
+	height: 30px;
+}
+.twitter ul{
+	width: 30px;
+	height: 30px;
+	border: 1px solid #1b2831;
+	list-style: none;
+	margin-top: 33px;
+	float: left;
+}
+.twitter ul li{
+	color: white;
+	list-style: none;
+}
+.twitter ul li img{
+	text-decoration: none;
+	width: 30px;
+	height: 30px;
+}
+.chip ul{
+	width: 30px;
+	height: 30px;
+	border: 1px solid #1b2831;
+	margin-top: 33px;
+	list-style: none;
+	float: left;
+}
+.chip ul li{
+	color: white;
+	list-style: none;
+}
+.chip ul li img{
+	text-decoration: none;
+	width: 30px;
+	height: 30px;
+}
+.nomer0{
+	width: 150px;
+	height: 50px;
+	border: 1px solid #1b2831;
+	margin-top: 30px;
+	font-size: 17px;
+	color: white;
+	float: left;
+}
+.studio{
+	width: 190px;
+	height: 30px;
+	border: 1px solid #1b2831;
+	color: white;
+	margin-left: 80px;
+	margin-top: 35px;
+	font-size: 17px;
+	float: left;
+}
